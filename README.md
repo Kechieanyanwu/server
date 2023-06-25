@@ -1,2 +1,5 @@
 # server
-Creating my first server with Uche
+- npm is a Nodejs package manager 
+- Nodejs works with express.js for server creation 
+- Document on express - https://expressjs.com/en/guide/routing.html
+- Server is started on : http://localhost:3000
